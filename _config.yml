@@ -1,0 +1,43 @@
+# Configurazione del sito
+
+title: "Alessio Roma"
+description: "Compositore"
+url: "https://alessioroma.github.io"
+baseurl: ""
+
+# Informazioni personali
+author:
+  name: "Alessio Roma"
+  email: "alessioroma.music@gmail.com"
+  bio: "Compositore"
+
+# Link ai social
+social:
+  instagram: "alessioroma.music"
+  linkedin: "alessio-roma-1742a7317"
+
+# Impostazioni tecniche
+markdown: kramdown
+permalink: /news/:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigazione del sito
+navigation:
+  - title: "Biografia"
+    url: /biografia/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Eventi"
+    url: /eventi/
+  - title: "News"
+    url: /news/
+  - title: "Contatti"
+    url: /contatti/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md

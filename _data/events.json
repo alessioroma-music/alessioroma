@@ -1,0 +1,79 @@
+[
+  {
+    "title": "A Tempo — Festival di Nuovi Linguaggi, 2ª edizione",
+    "date": "2025-12-06",
+    "time": null,
+    "type": "festival",
+    "location": "Auditorium \"Nino Rota\", Conservatorio \"N. Piccinni\" — Bari",
+    "description": "Prima esecuzione assoluta di «Fecero un deserto e lo chiamarono Pace» per ensemble ed elettronica. Luigi Cascarano (clarinetto), Davide Lepre (percussioni), Emanuela Storelli (violoncello), Silvio Lotito (regia del suono). Coordinamento del progetto a cura di Filippo Lattanzi.",
+    "url": null,
+    "status": "past",
+    "locandina": null
+  },
+  {
+    "title": "Danze e Variazioni — Ri-Lettura VII",
+    "date": "2025-10-31",
+    "time": null,
+    "type": "concerto",
+    "location": "Teatro Comunale Tommaso Traetta — Bitonto (BA)",
+    "description": "Prima esecuzione assoluta di «Chiari Ombre» per violino e violoncello (commissione TOF). Ulisse Mazzon (violino), Maria Mafalda Mazzon (violoncello).",
+    "url": null,
+    "status": "past",
+    "locandina": null
+  },
+  {
+    "title": "Risonanze di Confine — Testimonianze dall'Ucraina",
+    "date": "2025-06-09",
+    "time": null,
+    "type": "concerto",
+    "location": "Parrocchia di Sant'Andrea — Bari",
+    "description": "Esecuzione di «It's a long, long way to therapy» per quartetto d'archi ed elettronica. Nicoletta Leone (violino), Silvia Zeverino (violino), Nicolò Salzo (viola), Ilenia Piccolo (violoncello), Alessio Roma (elettronica). Evento di beneficenza per l'acquisto di un'ambulanza destinata alle zone ucraine colpite dal conflitto.",
+    "url": null,
+    "status": "past",
+    "locandina": "/assets/images/locandine/ucraina-6-25.jpg"
+  },
+  {
+    "title": "Passati Presenti",
+    "date": "2024-04-22",
+    "time": null,
+    "type": "concerto",
+    "location": "Cattedrale San Sabino — Bari",
+    "description": "Prima esecuzione assoluta di «Costellazioni» per orchestra sinfonica. Orchestra della Classe di Direzione del Conservatorio \"Niccolò Piccinni\" di Bari, diretta da Roberto Casulli.",
+    "url": null,
+    "status": "past",
+    "locandina": null
+  },
+  {
+    "title": "Intorno alle musiche d'oggi — Tavola rotonda",
+    "date": "2024-01-13",
+    "time": null,
+    "type": "conferenza",
+    "location": "Lab Creation — Mesagne (BR)",
+    "description": "Intervento nell'ambito delle manifestazioni per il centenario della SIMC.",
+    "url": null,
+    "status": "past",
+    "locandina": null
+  },
+  {
+    "title": "Giornata di studi: Insegnare la composizione",
+    "date": "2023-10-28",
+    "time": null,
+    "type": "conferenza",
+    "location": "Conservatorio \"N. Piccinni\" — Bari",
+    "description": "Esecuzione di «Posters» per clarinetto e pianoforte. Domenico Cetera (clarinetto), Sara Sasso (pianoforte). Manifestazioni per il centenario della fondazione della SIMC.",
+    "url": null,
+    "status": "past",
+    "locandina": null
+  },
+  {
+    "title": "Nuove musiche per nuove generazioni",
+    "date": "2023-10-08",
+    "time": null,
+    "type": "concerto",
+    "location": "Museo \"Sigismondo Castromediano\" — Lecce",
+    "description": "Esecuzione di «Serenata per un attacco di panico no.2» per sax contralto. Isacco Buccoliero (sax contralto). Manifestazioni del centenario della SIMC.",
+    "url": null,
+    "status": "past",
+    "locandina": null
+  }
+]
