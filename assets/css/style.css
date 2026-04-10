@@ -276,6 +276,13 @@ img { max-width: 100%; height: auto; }
   border-bottom: 1px solid var(--color-border);
 }
 
+.home-about {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  text-align: justify;
+  margin-bottom: 0;
+}
+
 /* --- News --- */
 .news-list {
   display: flex;
