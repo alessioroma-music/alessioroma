@@ -452,6 +452,7 @@ img { max-width: 100%; height: auto; }
   flex: 0 0 70%;
   display: flex;
   gap: var(--space-md);
+  align-items: flex-start;
 }
 
 .event-locandina-col {
@@ -475,7 +476,6 @@ img { max-width: 100%; height: auto; }
   display: flex;
   flex-direction: column;
   align-items: flex-end;
-  padding-top: 0.15rem;
 }
 
 .event-day {
