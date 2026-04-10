@@ -498,6 +498,8 @@ img { max-width: 100%; height: auto; }
 .event-title {
   font-size: 1.3rem;
   font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .event-venue, .event-program {
