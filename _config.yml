@@ -26,11 +26,11 @@ plugins:
 
 # Navigazione del sito
 navigation:
-  - title: "Biografia"
+  - title: "Biography"
     url: /biografia/
-  - title: "Portfolio"
+  - title: "Works"
     url: /portfolio/
-  - title: "Eventi"
+  - title: "Events"
     url: /eventi/
   - title: "News"
     url: /news/
