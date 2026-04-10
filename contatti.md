@@ -14,7 +14,7 @@ permalink: /contatti/
 Per commissioni, collaborazioni, richiesta di partiture o qualsiasi altra informazione:
 
 <p class="contact-email">
-  <a href="mailto:alessioroma.music@gmail.com">alessioroma.music@gmail.com</a>
+  <a href="mailto:info@alessioroma.it">info@alessioroma.it</a>
 </p>
 
 Puoi trovarmi anche su:
