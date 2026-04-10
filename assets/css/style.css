@@ -452,7 +452,7 @@ img { max-width: 100%; height: auto; }
   flex: 0 0 70%;
   display: flex;
   gap: var(--space-md);
-  align-items: flex-start;
+  align-items: baseline;
 }
 
 .event-locandina-col {
