@@ -15,8 +15,8 @@ permalink: /works/
     <div class="work-body">
       <div class="work-main">
         <h3 class="work-title">Io sono come il mare</h3>
-        <p class="work-details">per ensemble, live electronics e voce recitante registrata — 45' ca.</p>
-        <div class="work-description">testi di Antonella Diacono</div>
+        <p class="work-details">for ensemble, live electronics and voice-over narrator — 45' ca.</p>
+        <div class="work-description">lyrics by Antonella Diacono</div>
       </div>
       <div class="work-cover-col">
         <img class="work-cover" src="{{ '/assets/images/copertine-works/io-sono-come-il-mare.jpg' | relative_url }}" alt="Io sono come il mare">
@@ -29,7 +29,7 @@ permalink: /works/
     <div class="work-body">
       <div class="work-main">
         <h3 class="work-title">Chiari Ombre</h3>
-        <p class="work-details">per violino e violoncello (commissione TOF) — 6' ca.</p>
+        <p class="work-details">for violin and cello (commissioned by TOF) — 6' ca.</p>
       </div>
       <div class="work-cover-col">
         <img class="work-cover" src="{{ '/assets/images/copertine-works/chiari-ombre.jpg' | relative_url }}" alt="Chiari Ombre">
@@ -42,7 +42,7 @@ permalink: /works/
     <div class="work-body">
       <div class="work-main">
         <h3 class="work-title">Torsioni del reale</h3>
-        <p class="work-details">per violino solo — 7' ca.</p>
+        <p class="work-details">for violin solo — 7' ca.</p>
         <div class="work-links">
           <a href="https://youtu.be/rPXAXsjv3Ig" class="work-link" target="_blank">YouTube</a>
         </div>
@@ -58,7 +58,7 @@ permalink: /works/
     <div class="work-body">
       <div class="work-main">
         <h3 class="work-title">Fecero un deserto e lo chiamarono Pace</h3>
-        <p class="work-details">per ensemble e voce recitante registrata — 15' ca.</p>
+        <p class="work-details">for ensemble, live electronics and voice-over narrator — 15' ca.</p>
       </div>
       <div class="work-cover-col">
         <img class="work-cover" src="{{ '/assets/images/copertine-works/fecero-un-deserto.jpg' | relative_url }}" alt="Fecero un deserto e lo chiamarono Pace">
@@ -71,7 +71,7 @@ permalink: /works/
     <div class="work-body">
       <div class="work-main">
         <h3 class="work-title">Serenata per un attacco di panico no.3</h3>
-        <p class="work-details">per pianoforte solo — 10' ca.</p>
+        <p class="work-details">for piano solo — 10' ca.</p>
       </div>
       <div class="work-cover-col">
         <img class="work-cover" src="{{ '/assets/images/copertine-works/serenata-per-un-attacco-di-panico-no3.jpg' | relative_url }}" alt="Serenata per un attacco di panico no.3">
@@ -84,7 +84,7 @@ permalink: /works/
     <div class="work-body">
       <div class="work-main">
         <h3 class="work-title">Costellazioni</h3>
-        <p class="work-details">per orchestra sinfonica — 9' ca.</p>
+        <p class="work-details">for orchestra — 9' ca.</p>
         <div class="work-links">
           <a href="https://youtu.be/OKhZkFT5qfg?si=n0PjuSXs5BYa37-X" class="work-link" target="_blank">YouTube</a>
           <a href="https://open.spotify.com/intl-it/track/33DJskbgrH8d1FpVztmc8E?si=e3d5b75f9d7b4a68" class="work-link" target="_blank">Spotify</a>
@@ -101,8 +101,8 @@ permalink: /works/
     <div class="work-body">
       <div class="work-main">
         <h3 class="work-title">Buttate in cielo</h3>
-        <p class="work-details">per ensemble e voce recitante — 30' ca.</p>
-        <div class="work-description">testi di Denise De Scisciolo</div>
+        <p class="work-details">for ensemble and narrator — 30' ca.</p>
+        <div class="work-description">lyrics by Denise De Scisciolo</div>
       </div>
       <div class="work-cover-col">
         <img class="work-cover" src="{{ '/assets/images/copertine-works/buttate-in-cielo.jpg' | relative_url }}" alt="Buttate in cielo">
@@ -115,7 +115,7 @@ permalink: /works/
     <div class="work-body">
       <div class="work-main">
         <h3 class="work-title">Paysage</h3>
-        <p class="work-details">per organo antico e registrante — 8' ca.</p>
+        <p class="work-details">for historical organ and two performers — 8' ca.</p>
       </div>
       <div class="work-cover-col">
         <img class="work-cover" src="{{ '/assets/images/copertine-works/paysage.jpg' | relative_url }}" alt="Paysage">
@@ -128,7 +128,7 @@ permalink: /works/
     <div class="work-body">
       <div class="work-main">
         <h3 class="work-title">Posters</h3>
-        <p class="work-details">per clarinetto e pianoforte — 9' ca.</p>
+        <p class="work-details">for clarinet and piano — 9' ca.</p>
         <div class="work-links">
           <a href="https://youtu.be/lGNVNm7HsZA" class="work-link" target="_blank">YouTube</a>
         </div>
@@ -144,7 +144,7 @@ permalink: /works/
     <div class="work-body">
       <div class="work-main">
         <h3 class="work-title">Serenata per un attacco di panico no.2</h3>
-        <p class="work-details">per sax contralto solo — 8' ca.</p>
+        <p class="work-details">for alto saxophone solo — 8' ca.</p>
         <div class="work-links">
           <a href="https://youtu.be/GR9X9aDLoD4" class="work-link" target="_blank">YouTube</a>
         </div>
@@ -160,7 +160,7 @@ permalink: /works/
     <div class="work-body">
       <div class="work-main">
         <h3 class="work-title">Parla, inciampa, rifletti e splendi!</h3>
-        <p class="work-details">per violino solo — 10' ca.</p>
+        <p class="work-details">for violin solo — 10' ca.</p>
         <div class="work-links">
           <a href="https://youtu.be/9DJ1W1AuUbE?si=2HP1JizQftd8Slqf" class="work-link" target="_blank">YouTube</a>
           <a href="https://open.spotify.com/intl-it/track/1Ji49N3uvUjDrf2dPCcsiJ?si=ae3dabca67eb4598" class="work-link" target="_blank">Spotify</a>
@@ -177,7 +177,7 @@ permalink: /works/
     <div class="work-body">
       <div class="work-main">
         <h3 class="work-title">It's a long, long way to therapy</h3>
-        <p class="work-details">per quartetto d'archi ed elettronica — 8' ca.</p>
+        <p class="work-details">for string quartet and live electronics — 8' ca.</p>
       </div>
       <div class="work-cover-col">
         <img class="work-cover" src="{{ '/assets/images/copertine-works/its-a-long-long.jpg' | relative_url }}" alt="It's a long, long way to therapy">
@@ -190,7 +190,7 @@ permalink: /works/
     <div class="work-body">
       <div class="work-main">
         <h3 class="work-title">Serenata per un attacco di panico no.1</h3>
-        <p class="work-details">per viola solo — 10' ca.</p>
+        <p class="work-details">for viola solo — 10' ca.</p>
       </div>
       <div class="work-cover-col">
         <img class="work-cover" src="{{ '/assets/images/copertine-works/serenata-per-un-attacco-di-panico-no1.jpg' | relative_url }}" alt="Serenata per un attacco di panico no.1">
@@ -203,7 +203,7 @@ permalink: /works/
     <div class="work-body">
       <div class="work-main">
         <h3 class="work-title">Fili d'aquilone</h3>
-        <p class="work-details">per violino, violoncello e pianoforte — 10' ca.</p>
+        <p class="work-details">for violin, cello and piano — 10' ca.</p>
       </div>
       <div class="work-cover-col">
         <img class="work-cover" src="{{ '/assets/images/copertine-works/fili_d_aquilone.jpg' | relative_url }}" alt="Fili d'aquilone">
@@ -216,7 +216,7 @@ permalink: /works/
     <div class="work-body">
       <div class="work-main">
         <h3 class="work-title">Il Gioco Grande</h3>
-        <p class="work-details">per sax baritono, percussioni e voci recitanti — 15'-18' ca.</p>
+        <p class="work-details">for baritone saxophone, percussion, and narrators — 15'-18' ca.</p>
       </div>
       <div class="work-cover-col">
         <img class="work-cover" src="{{ '/assets/images/copertine-works/il_gioco_grande.jpg' | relative_url }}" alt="Il Gioco Grande">
@@ -229,7 +229,7 @@ permalink: /works/
     <div class="work-body">
       <div class="work-main">
         <h3 class="work-title">Boards</h3>
-        <p class="work-details">per pianoforte solo — 7' ca.</p>
+        <p class="work-details">for piano solo — 7' ca.</p>
       </div>
       <div class="work-cover-col">
         <img class="work-cover" src="{{ '/assets/images/copertine-works/boards.jpg' | relative_url }}" alt="Boards">
@@ -261,7 +261,7 @@ permalink: /works/
     <div class="work-body">
       <div class="work-main">
         <h3 class="work-title">Nu ffischia</h3>
-        <p class="work-details">OST per cortometraggio di Minafra, Carella e Piccinni</p>
+        <p class="work-details">OST for the short-film of Minafra, Carella and Piccinni</p>
         <div class="work-links">
           <a href="https://www.youtube.com/watch?v=nW_3xiL3N28&list=OLAK5uy_nZRwNr7gseCBg1A6vMUhpgUpfJExZVba0" class="work-link" target="_blank">YouTube</a>
         </div>
@@ -277,7 +277,7 @@ permalink: /works/
     <div class="work-body">
       <div class="work-main">
         <h3 class="work-title">Myosotys</h3>
-        <p class="work-details">OST per cortometraggio di Minafra e Piccinni</p>
+        <p class="work-details">OST for the short-film of Minafra and Piccinni</p>
       </div>
       <div class="work-cover-col">
         <img class="work-cover" src="{{ '/assets/images/copertine-works/myosotis.png' | relative_url }}" alt="Myosotys">
@@ -290,7 +290,7 @@ permalink: /works/
     <div class="work-body">
       <div class="work-main">
         <h3 class="work-title">Punto e a caso</h3>
-        <p class="work-details">OST per cortometraggio di Minafra e Piccinni</p>
+        <p class="work-details">OST for the short-film of Minafra and Piccinni</p>
       </div>
       <div class="work-cover-col">
         <img class="work-cover" src="{{ '/assets/images/copertine-works/punto-e-a-caso.png' | relative_url }}" alt="Punto e a caso">

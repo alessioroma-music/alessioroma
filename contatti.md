@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Contatti"
-subtitle: "Per commissioni, collaborazioni e informazioni"
-permalink: /contatti/
+title: "Contacts"
+subtitle: "For commissions, collaborations, and information"
+permalink: /contacts/
 ---
 
 <div class="contact-portrait">
@@ -11,13 +11,13 @@ permalink: /contatti/
 
 <div class="contact-info">
 
-Per commissioni, collaborazioni, richiesta di partiture o qualsiasi altra informazione:
+For commissions, collaborations, requests for sheet music, or any other information:
 
 <p class="contact-email">
   <a href="mailto:info@alessioroma.it">info@alessioroma.it</a>
 </p>
 
-Puoi trovarmi anche su:
+You can also find me on:
 
 <div class="contact-social-links">
   <a href="https://www.instagram.com/alessioroma.music/" target="_blank" rel="noopener">Instagram</a>
