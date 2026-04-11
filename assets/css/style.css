@@ -369,10 +369,30 @@ img { max-width: 100%; height: auto; }
 }
 
 .work-item {
+  display: flex;
+  gap: var(--space-md);
+  align-items: flex-start;
   padding-bottom: var(--space-lg);
   border-bottom: 1px solid var(--color-border);
 }
 .work-item:last-child { border-bottom: none; }
+
+.work-main { flex: 1; }
+
+.work-cover-col {
+  flex: 0 0 100px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+
+.work-cover {
+  display: block;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border: 1px solid var(--color-border);
+}
 
 .work-year {
   font-size: 0.8rem;
@@ -382,11 +402,11 @@ img { max-width: 100%; height: auto; }
 }
 
 .work-title {
-  font-family: var(--font-display);
   font-size: 1.8rem;
   font-weight: 600;
   font-style: italic;
-  margin-top: 0.25rem;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .work-details {

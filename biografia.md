@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Biography"
-permalink: /biografia/
+permalink: /biography/
 ---
 
 <div class="bio-portrait">
@@ -9,24 +9,24 @@ permalink: /biografia/
 </div>
 
 <div class="bio-lang-toggle">
-  <button class="bio-lang-btn active" data-lang="it">IT</button>
+  <button class="bio-lang-btn" data-lang="it">IT</button>
   <span class="bio-lang-sep">|</span>
-  <button class="bio-lang-btn" data-lang="en">EN</button>
+  <button class="bio-lang-btn active" data-lang="en">EN</button>
 </div>
 
-<div class="bio-text" id="bio-it">
+<div class="bio-text" id="bio-it" style="display:none" markdown="1">
 
 Alessio Roma è un musicista e compositore nato a Bari nel 1993. Dopo una formazione strumentale come contrabbassista, ha intrapreso gli studi di composizione presso il Conservatorio di Musica "Niccolò Piccinni" di Bari sotto la guida di Biagio Putignano, conseguendo il diploma accademico di secondo livello nel marzo 2026. Ha frequentato masterclass internazionali di perfezionamento con Alessandro Melchiorre, Ivan Fedele, Giorgio Nottoli, Marco Stroppa, Robert HP Platz, Roberto Paci Dalò, Juha T. Koskinen e presso la Musikschule der Stadt Freising, in Germania.
 
 Nel corso dei suoi studi ha approfondito le tecniche spettraliste — in particolare la poetica di Kaija Saariaho — e lo studio della fusione timbrica di più strumenti in un unico timbro percepibile, con riferimento al lavoro di compositori come Ivan Fedele. Nei suoi lavori integra spesso elementi extra-musicali, affrontando tematiche sociali e civili quali la salute mentale, l'oppressione dei popoli e la violenza sulle donne.
 
-Le sue opere vengono eseguite in Italia e all'estero in concerti, festival e rassegne musicali. Ha partecipato agli eventi celebrativi per il centenario della Società Italiana di Musica Contemporanea con due prime esecuzioni assolute. Con *Cinque piccole variazioni per tromba* ha vinto il secondo premio al Concorso di composizione "Note per una stella" di Monteroni. Tra le commissioni ricevute, *Chiari Ombre* per violino e violoncello, commissionato dal Traetta Opera Festival (2025).
+Le sue opere vengono eseguite in Italia e all'estero in concerti, festival e rassegne musicali. Ha partecipato agli eventi celebrativi per il centenario della Società Italiana di Musica Contemporanea con due prime esecuzioni assolute. Con *Cinque piccole variazioni per tromba* ha vinto il secondo premio al Concorso di composizione "Note per una stella" di Monteroni di Lecce (LE). Tra le commissioni ricevute, *Chiari Ombre* per violino e violoncello, commissionato dal Traetta Opera Festival (2025).
 
 Collabora con il LEAP — Laboratorio ElettroAcustico Permanente di Roma, seguito da uno dei fondatori, Giuseppe Silvi. Le registrazioni delle sue composizioni sono pubblicate sulle principali piattaforme di streaming musicale.
 
 </div>
 
-<div class="bio-text" id="bio-en" style="display:none">
+<div class="bio-text" id="bio-en" markdown="1">
 
 Alessio Roma is a musician and composer born in Bari in 1993. After training as a double bassist, he began studying composition at the "Niccolò Piccinni" Conservatory of Music in Bari with Biagio Putignano, earning his master's degree in March 2026. He attended international masterclasses with Alessandro Melchiorre, Ivan Fedele, Giorgio Nottoli, Marco Stroppa, Robert HP Platz, Roberto Paci Dalò, Juha T. Koskinen, and at the Musikschule der Stadt Freising in Germany.
 
