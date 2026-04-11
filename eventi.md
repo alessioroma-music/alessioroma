@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Eventi"
-subtitle: "Concerti e appuntamenti"
-permalink: /eventi/
+title: "Events"
+subtitle: "Concerts and meetings"
+permalink: /events/
 ---
 
 {% assign upcoming = site.data.events | where: "status", "upcoming" | sort: "date" %}
@@ -43,7 +43,7 @@ permalink: /eventi/
 
 {% if past.size > 0 %}
 <div class="events-section">
-  <h2 class="events-section-title">Eventi passati</h2>
+  <h2 class="events-section-title">Past</h2>
   <div class="event-list">
     {% for event in past %}
     <div class="event-item">

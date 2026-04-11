@@ -99,7 +99,7 @@ a {
 }
 a:hover { color: var(--color-accent-light); }
 
-img { max-width: 100%; height: auto; }
+img { max-width: 100%; height: auto; border: 1px solid #E8E0D0; }
 
 /* ============================================
    HEADER E NAVIGAZIONE
