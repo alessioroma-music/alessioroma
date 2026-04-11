@@ -35,15 +35,15 @@
 
 /* --- Variabili --- */
 :root {
-  --color-bg: #FAFAF8;
-  --color-text: #2C2C2C;
-  --color-text-light: #6B6B6B;
-  --color-accent: #8B6914;
-  --color-accent-light: #C4A44A;
-  --color-border: #E2DFD8;
-  --color-surface: #F2F0EB;
-  --color-white: #FFFFFF;
-  --color-black: #1A1A1A;
+  --color-bg: #0D0F10;
+  --color-text: #E8E0D0;
+  --color-text-light: #7A8A90;
+  --color-accent: #B8C8D4;
+  --color-accent-light: #C8D8E4;
+  --color-border: #2E3A42;
+  --color-surface: #1C2228;
+  --color-white: #0D0F10;
+  --color-black: #E8E0D0;
 
   --font-display: 'Champagne & Limousines', sans-serif;
   --font-body: 'Champagne & Limousines', sans-serif;
@@ -762,7 +762,7 @@ img { max-width: 100%; height: auto; }
   position: fixed;
   inset: 0;
   z-index: 1000;
-  background: rgba(20, 18, 14, 0.75);
+  background: rgba(5, 7, 8, 0.88);
   backdrop-filter: blur(6px);
   -webkit-backdrop-filter: blur(6px);
   align-items: center;
