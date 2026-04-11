@@ -1,7 +1,7 @@
 # Configurazione del sito
 
 title: "Alessio Roma"
-description: "Compositore"
+description: "Composer"
 url: "https://alessioroma.it"
 baseurl: ""
 
@@ -27,15 +27,15 @@ plugins:
 # Navigazione del sito
 navigation:
   - title: "Biography"
-    url: /biografia/
+    url: /biography/
   - title: "Works"
-    url: /portfolio/
+    url: /works/
   - title: "Events"
-    url: /eventi/
+    url: /events/
   - title: "News"
     url: /news/
-  - title: "Contatti"
-    url: /contatti/
+  - title: "Contacts"
+    url: /contacts/
 
 exclude:
   - Gemfile

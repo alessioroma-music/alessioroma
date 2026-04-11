@@ -65,7 +65,7 @@
 }
 
 html {
-  font-size: 16px;
+  font-size: 18px;
   scroll-behavior: smooth;
 }
 
@@ -99,7 +99,7 @@ a {
 }
 a:hover { color: var(--color-accent-light); }
 
-img { max-width: 100%; height: auto; border: 1px solid #E8E0D0; }
+img { max-width: 100%; height: auto; border: 2px solid #E8E0D0; }
 
 /* ============================================
    HEADER E NAVIGAZIONE
@@ -747,6 +747,11 @@ img { max-width: 100%; height: auto; border: 1px solid #E8E0D0; }
 
   .page-title, .post-title { font-size: 2rem; }
   .work-title { font-size: 1.4rem; }
+
+  .work-links {
+    flex-direction: column;
+    gap: var(--space-xs);
+  }
 
   .contact-social-links {
     flex-direction: column;
