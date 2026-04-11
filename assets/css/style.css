@@ -73,7 +73,7 @@ body {
   font-family: var(--font-body);
   font-weight: 400;
   color: var(--color-text);
-  background-color: var(--color-bg);
+  background-color: var(--color-surface);
   line-height: 1.7;
   -webkit-font-smoothing: antialiased;
 }
@@ -394,7 +394,7 @@ img { max-width: 100%; height: auto; border: 2px solid #E8E0D0; }
   width: 200px;
   height: 200px;
   object-fit: cover;
-  border: 1px solid var(--color-border);
+  border: 2px solid #E8E0D0;
 }
 
 .work-year {
@@ -490,7 +490,7 @@ img { max-width: 100%; height: auto; border: 2px solid #E8E0D0; }
   width: 100%;
   max-width: 200px;
   height: auto;
-  border: 1px solid var(--color-border);
+  border: 2px solid #E8E0D0;
 }
 
 .event-date-block {
