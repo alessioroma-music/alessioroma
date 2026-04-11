@@ -364,16 +364,15 @@ img { max-width: 100%; height: auto; border: 2px solid #E8E0D0; }
 .post-content img {
   display: block;
   max-width: 100%;
-  margin: var(--space-md) auto;
+  margin: var(--space-md) auto 0.3rem;
 }
 
-.post-content em:only-child,
-.post-content p > em:only-child {
+.post-content p:has(img) + p > em:only-child {
   display: block;
   text-align: center;
   font-size: 0.85rem;
   color: var(--color-text-light);
-  margin-top: calc(-1 * var(--space-sm));
+  margin-top: 0;
   margin-bottom: var(--space-md);
 }
 
