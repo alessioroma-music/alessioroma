@@ -5,19 +5,47 @@ layout: default
 <article class="post">
   <header class="post-header">
     <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">
-      {{ page.date | date: "%d/%m/%Y" }}
+      {{ page.date | date: "%B %-d, %Y" }}
     </time>
     <h1 class="post-title">{{ page.title }}</h1>
     {% if page.subtitle %}
     <p class="post-subtitle">{{ page.subtitle }}</p>
     {% endif %}
+
+    {% if page.lang_it %}
+    <div class="bio-lang-toggle">
+      <button class="bio-lang-btn active" data-lang="en">EN</button>
+      <span class="bio-lang-sep">|</span>
+      <button class="bio-lang-btn" data-lang="it">IT</button>
+    </div>
+    {% endif %}
   </header>
 
-  <div class="post-content">
+  <div class="post-content" id="post-en">
     {{ content }}
   </div>
 
+  {% if page.lang_it %}
+  <div class="post-content" id="post-it" style="display:none">
+    {{ page.lang_it | markdownify }}
+  </div>
+  {% endif %}
+
   <footer class="post-footer">
-    <a href="{{ '/news/' | relative_url }}" class="back-link">&larr; Torna alle news</a>
+    <a href="{{ '/news/' | relative_url }}" class="back-link">&larr; News</a>
   </footer>
 </article>
+
+{% if page.lang_it %}
+<script>
+  document.querySelectorAll('.bio-lang-btn').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var lang = this.dataset.lang;
+      document.querySelectorAll('.bio-lang-btn').forEach(function(b) { b.classList.remove('active'); });
+      this.classList.add('active');
+      document.getElementById('post-en').style.display = lang === 'en' ? '' : 'none';
+      document.getElementById('post-it').style.display = lang === 'it' ? '' : 'none';
+    });
+  });
+</script>
+{% endif %}

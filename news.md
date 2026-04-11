@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "News"
-subtitle: "Aggiornamenti e novità"
+subtitle: "Updates and news"
 permalink: /news/
 ---
 
