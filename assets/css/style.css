@@ -230,6 +230,8 @@ img { max-width: 100%; height: auto; border: 2px solid #E8E0D0; }
   object-position: center 20%;
   display: block;
   cursor: zoom-in;
+  border-left: none;
+  border-right: none;
 }
 
 /* --- Pagine --- */
@@ -587,6 +589,8 @@ img { max-width: 100%; height: auto; border: 2px solid #E8E0D0; }
   object-position: center 15%;
   display: block;
   cursor: zoom-in;
+  border-left: none;
+  border-right: none;
 }
 
 .contact-social-links {
@@ -626,6 +630,8 @@ img { max-width: 100%; height: auto; border: 2px solid #E8E0D0; }
   object-position: center 15%;
   display: block;
   cursor: zoom-in;
+  border-left: none;
+  border-right: none;
 }
 
 .bio-lang-toggle {
@@ -716,7 +722,10 @@ img { max-width: 100%; height: auto; border: 2px solid #E8E0D0; }
   .hero-title { font-size: 2.5rem; }
   .hero-portrait img,
   .bio-portrait img,
-  .contact-portrait img { height: 260px; }
+  .contact-portrait img {
+    height: 340px;
+    object-fit: cover;
+  }
 
   .header-inner { padding: var(--space-sm); }
 
