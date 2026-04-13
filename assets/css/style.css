@@ -113,8 +113,7 @@ img { max-width: 100%; height: auto; border: 2px solid #E8E0D0; }
 }
 
 .header-inner {
-  max-width: var(--max-width);
-  margin: 0 auto;
+  width: 100%;
   padding: var(--space-sm) var(--space-md);
   display: flex;
   justify-content: space-between;
@@ -191,7 +190,7 @@ img { max-width: 100%; height: auto; border: 2px solid #E8E0D0; }
 /* --- Hero (homepage) --- */
 .hero {
   text-align: center;
-  padding: var(--space-sm) var(--space-md) 0;
+  padding: var(--space-xs) var(--space-md) 0;
   margin-bottom: var(--space-lg);
   border-bottom: 1px solid var(--color-border);
 }
@@ -813,7 +812,7 @@ img { max-width: 100%; height: auto; border: 2px solid #E8E0D0; }
   .bio-portrait img,
   .contact-portrait img {
     height: 520px;
-    object-position: center 18%;
+    object-position: center 10%;
   }
 }
 
@@ -822,7 +821,7 @@ img { max-width: 100%; height: auto; border: 2px solid #E8E0D0; }
   .bio-portrait img,
   .contact-portrait img {
     height: 640px;
-    object-position: center 15%;
+    object-position: center 8%;
   }
 
   .hero-title { font-size: 8rem; }
