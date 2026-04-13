@@ -200,7 +200,7 @@ img { max-width: 100%; height: auto; border: 2px solid #E8E0D0; }
   font-size: 6rem;
   font-weight: 400;
   letter-spacing: 0.05em;
-  margin-bottom: 0.2rem;
+  margin-bottom: 0;
   color: var(--color-black);
 }
 
@@ -211,6 +211,7 @@ img { max-width: 100%; height: auto; border: 2px solid #E8E0D0; }
   color: var(--color-text-light);
   letter-spacing: 0.15em;
   text-transform: uppercase;
+  margin-top: 0.15rem;
   margin-bottom: var(--space-sm);
 }
 
@@ -808,21 +809,15 @@ img { max-width: 100%; height: auto; border: 2px solid #E8E0D0; }
    LARGE SCREENS (1440px+)
    ============================================ */
 @media (min-width: 1440px) {
-  .hero-portrait img,
-  .bio-portrait img,
-  .contact-portrait img {
-    height: 520px;
-    object-position: center 10%;
-  }
+  .hero-portrait img    { height: 520px; object-position: center 22%; }
+  .bio-portrait img     { height: 520px; object-position: center 18%; }
+  .contact-portrait img { height: 520px; object-position: center 40%; }
 }
 
 @media (min-width: 2200px) {
-  .hero-portrait img,
-  .bio-portrait img,
-  .contact-portrait img {
-    height: 640px;
-    object-position: center 8%;
-  }
+  .hero-portrait img    { height: 640px; object-position: center 22%; }
+  .bio-portrait img     { height: 640px; object-position: center 18%; }
+  .contact-portrait img { height: 640px; object-position: center 40%; }
 
   .hero-title { font-size: 8rem; }
   .hero-subtitle { font-size: 1.6rem; }
