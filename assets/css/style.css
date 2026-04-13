@@ -191,14 +191,14 @@ img { max-width: 100%; height: auto; border: 2px solid #E8E0D0; }
 /* --- Hero (homepage) --- */
 .hero {
   text-align: center;
-  padding: var(--space-lg) var(--space-md);
+  padding: var(--space-md) var(--space-md) 0;
   margin-bottom: var(--space-lg);
   border-bottom: 1px solid var(--color-border);
 }
 
 .hero-title {
   font-family: var(--font-display);
-  font-size: 4rem;
+  font-size: 6rem;
   font-weight: 400;
   letter-spacing: 0.05em;
   margin-bottom: var(--space-xs);
@@ -207,7 +207,7 @@ img { max-width: 100%; height: auto; border: 2px solid #E8E0D0; }
 
 .hero-subtitle {
   font-family: var(--font-body);
-  font-size: 1.1rem;
+  font-size: 1.3rem;
   font-weight: 700;
   color: var(--color-text-light);
   letter-spacing: 0.15em;
@@ -220,7 +220,7 @@ img { max-width: 100%; height: auto; border: 2px solid #E8E0D0; }
   position: relative;
   left: 50%;
   transform: translateX(-50%);
-  margin: var(--space-md) 0 0;
+  margin: 0;
   overflow: hidden;
 }
 .hero-portrait img {
@@ -719,11 +719,11 @@ img { max-width: 100%; height: auto; border: 2px solid #E8E0D0; }
    ============================================ */
 @media (max-width: 768px) {
   h1 { font-size: 2rem; }
-  .hero-title { font-size: 2.5rem; }
+  .hero-title { font-size: 3.2rem; }
   .hero-portrait img,
   .bio-portrait img,
   .contact-portrait img {
-    height: 340px;
+    height: 220px;
     object-fit: cover;
   }
 
