@@ -30,6 +30,9 @@ permalink: /works/
       <div class="work-main">
         <h3 class="work-title">Chiari Ombre</h3>
         <p class="work-details">for violin and cello (commissioned by TOF) — 6' ca.</p>
+        <div class="work-links">
+          <a href="https://www.youtube.com/watch?v=kPZELH4PaJo" class="work-link" target="_blank">YouTube</a>
+        </div>
       </div>
       <div class="work-cover-col">
         <img class="work-cover" src="{{ '/assets/images/copertine-works/chiari-ombre.jpg' | relative_url }}" alt="Chiari Ombre">
