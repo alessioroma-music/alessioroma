@@ -1,0 +1,279 @@
+%% ===================================================
+%% ALESSIO ROMA — Curriculum Artistico
+%% Compilare con: xelatex curriculum-artistico.tex
+%% ===================================================
+\documentclass[a4paper, 10pt]{article}
+
+\usepackage{fontspec}
+\usepackage{xcolor}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage{setspace}
+
+%% ——— Font ————————————————————————————————————
+\setmainfont[
+  Path           = assets/fonts/,
+  UprightFont    = Champagne___Limousines.ttf,
+  BoldFont       = Champagne___Limousines_Bold.ttf,
+  ItalicFont     = Champagne___Limousines_Italic.ttf,
+  BoldItalicFont = Champagne___Limousines_Bold_Italic.ttf
+]{Champagne___Limousines.ttf}
+
+%% ——— Colori dal sito ————————————————————————
+\definecolor{colbg}{HTML}{0D0F10}
+\definecolor{coltextmain}{HTML}{E8E0D0}
+\definecolor{coltextlight}{HTML}{7A8A90}
+\definecolor{colaccent}{HTML}{B8C8D4}
+\definecolor{colborder}{HTML}{2E3A42}
+
+%% ——— Impostazioni pagina ————————————————————
+\geometry{a4paper, left=2.2cm, right=2.2cm, top=2cm, bottom=2cm}
+\pagecolor{colbg}
+\color{coltextmain}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+%% ——— Link ————————————————————————————————————
+\hypersetup{
+  colorlinks = true,
+  urlcolor   = colaccent,
+  linkcolor  = colaccent,
+  pdfauthor  = {Alessio Roma},
+  pdftitle   = {Alessio Roma — Curriculum Artistico}
+}
+
+%% ——— Helper: testo con spaziatura lettere ————
+\newcommand{\spaced}[2][80]{%
+  {\addfontfeatures{LetterSpace=#1}#2}%
+}
+
+%% ——— Linea divisoria ————————————————————————
+\newcommand{\cvrule}{%
+  {\color{colborder}\rule{\linewidth}{0.4pt}}%
+}
+
+%% ——— Intestazione sezione ————————————————————
+\newcommand{\cvsection}[1]{%
+  \vspace{0.7em}%
+  {\small\bfseries\spaced[90]{\MakeUppercase{#1}}}%
+  \vspace{0.15em}\newline
+  \cvrule%
+  \vspace{0.4em}\newline
+}
+
+%% ——— Voce opera: anno, titolo (italic), organico ——
+\newcommand{\workrow}[3]{%
+  {\footnotesize\color{coltextlight}\spaced[90]{#1}}\enspace
+  {\small\itshape #2}\newline
+  {\footnotesize\color{coltextlight}\hspace{2.2em}#3}%
+  \vspace{0.1em}\newline
+}
+
+%% ——— Voce formazione / premio ————————————————
+\newcommand{\cvrow}[3]{%
+  {\small\bfseries #1}\hfill{\footnotesize\color{coltextlight}\spaced[90]{#2}}%
+  \newline
+  {\small\color{coltextlight}#3}%
+  \vspace{0.55em}\newline
+}
+
+%% ===================================================
+\begin{document}
+\pagestyle{empty}
+
+%% ——— INTESTAZIONE ———————————————————————————
+
+\noindent\begin{minipage}[t]{0.60\linewidth}
+  \vspace{0pt}
+  {\fontsize{34}{38}\selectfont\spaced[30]{ALESSIO ROMA}}%
+  \vspace{0.3em}\newline
+  {\footnotesize\bfseries\color{coltextlight}\spaced[130]{MUSICISTA · COMPOSITORE}}%
+  \vspace{0.55em}\newline
+  {\color{colborder}\rule{0.97\linewidth}{0.4pt}}%
+  \vspace{0.45em}\newline
+  {\small\color{coltextlight}%
+    Bari, 1993\enspace·\enspace
+    \href{mailto:info@alessioroma.it}{info@alessioroma.it}\enspace·\enspace
+    \href{https://alessioroma.it}{alessioroma.it}%
+  }%
+\end{minipage}%
+\hfill%
+\begin{minipage}[t]{0.31\linewidth}
+  \vspace{0pt}
+  \raggedleft
+  \begingroup
+    \setlength{\fboxsep}{0pt}%
+    \setlength{\fboxrule}{1pt}%
+    \color{coltextmain}%
+    \fbox{%
+      \includegraphics[width=3.8cm, height=3.8cm]%
+        {assets/images/alessio-roma-smile-crop.jpg}%
+    }%
+  \endgroup
+\end{minipage}
+
+\vspace{0.9em}
+\cvrule
+
+%% ——— PROFILO ————————————————————————————————
+\vspace{0.7em}
+{\small Alessio Roma è un musicista e compositore nato a Bari nel 1993.
+Nel suo lavoro integra elementi extra-musicali — salute mentale,
+oppressione dei popoli, violenza sulle donne — attraverso le tecniche
+spettraliste e la ricerca sulla fusione timbrica di più strumenti in
+un unico timbro percepibile. Le sue opere sono eseguite in Italia e
+all'estero in concerti, festival e rassegne di musica contemporanea.}
+
+%% ——— FORMAZIONE ————————————————————————————
+\cvsection{Formazione}
+
+\cvrow{Conservatorio «Niccolò Piccinni», Bari}{2026}{%
+  Diploma accademico di II livello in Composizione%
+  \enspace·\enspace docente M°\,Biagio Putignano}
+
+%% ——— MASTERCLASS ————————————————————————————
+\cvsection{Masterclass internazionali}
+
+{\small
+Alessandro Melchiorre\enspace·\enspace
+Ivan Fedele\enspace·\enspace
+Giorgio Nottoli\enspace·\enspace
+Marco Stroppa\enspace·\enspace
+Robert HP Platz\enspace·\enspace
+Roberto Paci Dalò\enspace·\enspace
+Juha T.\,Koskinen\enspace·\enspace
+Musikschule der Stadt Freising, Germania%
+}
+
+%% ——— PREMI ——————————————————————————————————
+\cvsection{Premi e riconoscimenti}
+
+{\small 2° Premio, Concorso di composizione «Note per una stella», Monteroni di Lecce (LE)}%
+\newline
+{\small\color{coltextlight}\hspace{0.5em}per \textit{Cinque piccole variazioni per tromba}}%
+\vspace{0.55em}\newline
+
+{\small Due prime esecuzioni assolute, eventi del centenario della\\
+Società Italiana di Musica Contemporanea (SIMC)}%
+\vspace{0.55em}\newline
+
+%% ——— COMMISSIONI ————————————————————————————
+\cvsection{Commissioni}
+
+{\footnotesize\color{coltextlight}\spaced[90]{2025}}\enspace
+{\small\textit{Chiari Ombre} per violino e violoncello — Traetta Opera Festival}%
+\vspace{0.55em}\newline
+
+%% ——— COLLABORAZIONI ——————————————————————————
+\cvsection{Collaborazioni}
+
+{\small LEAP — Laboratorio ElettroAcustico Permanente, Roma}%
+\newline
+{\small\color{coltextlight}\hspace{0.5em}con Giuseppe Silvi (cofondatore)}
+
+%% ——— DISCOGRAFIA ————————————————————————————
+\cvsection{Discografia}
+
+{\small Registrazioni disponibili su Spotify, Apple Music, YouTube Music e altre
+piattaforme di streaming musicale.}
+
+%% ===================================================
+%% PAGINA 2 — CATALOGO DELLE OPERE
+%% ===================================================
+\newpage
+
+\noindent
+{\footnotesize\color{coltextlight}\spaced[100]{ALESSIO ROMA}}%
+\hfill%
+{\footnotesize\color{coltextlight}\spaced[100]{CATALOGO DELLE OPERE}}%
+\vspace{0.3em}\newline
+\cvrule
+
+\setlength{\columnsep}{1.8em}
+\begin{multicols}{2}
+
+\cvsection{Musica strumentale}
+
+\workrow{2026}{Io sono come il mare}%
+  {ensemble, elett. dal vivo, voce narrante — 45' ca.%
+  \newline\hspace*{2.2em}testi di Antonella Diacono}
+
+\workrow{2025}{Chiari Ombre}%
+  {violino e violoncello — 6' ca.%
+  \newline\hspace*{2.2em}{\itshape commissione Traetta Opera Festival}}
+
+\workrow{2025}{Torsioni del reale}%
+  {violino solo — 7' ca.}
+
+\workrow{2025}{Fecero un deserto e lo chiamarono Pace}%
+  {ensemble, elett. dal vivo, voce narrante — 15' ca.}
+
+\workrow{2024}{Serenata per un attacco di panico III}%
+  {pianoforte solo — 10' ca.}
+
+\workrow{2024}{Costellazioni}%
+  {orchestra — 9' ca.}
+
+\workrow{2024}{Buttate in cielo}%
+  {ensemble e narratore — 30' ca.%
+  \newline\hspace*{2.2em}testi di Denise De Scisciolo}
+
+\workrow{2023}{Paysage}%
+  {organo storico e due performer — 8' ca.}
+
+\workrow{2023}{Posters}%
+  {clarinetto e pianoforte — 9' ca.}
+
+\workrow{2023}{Serenata per un attacco di panico II}%
+  {sassofono contralto solo — 8' ca.}
+
+\workrow{2023}{Parla, inciampa, rifletti e splendi!}%
+  {violino solo — 10' ca.}
+
+\workrow{2023}{It's a long, long way to therapy}%
+  {quartetto d'archi e elett. dal vivo — 8' ca.}
+
+\workrow{2023{\addfontfeatures{LetterSpace=0}\;{\tiny(rev.\,2024)}}}{Serenata per un attacco di panico I}%
+  {viola sola — 10' ca.}
+
+\workrow{2022}{Fili d'aquilone}%
+  {violino, violoncello e pianoforte — 10' ca.}
+
+\workrow{2022}{Il Gioco Grande}%
+  {sax baritono, percussioni e narratori — 15'–18' ca.}
+
+\workrow{2022}{Boards}%
+  {pianoforte solo — 7' ca.}
+
+\workrow{2021}{Umarmung}%
+  {duo di flauto dolce — 6' ca.}
+
+\cvsection{Colonne sonore}
+
+\workrow{2023}{Nu ffischia}%
+  {cortometraggio di Minafra, Carella e Piccinni}
+
+\workrow{2021}{Myosotys}%
+  {cortometraggio di Minafra e Piccinni}
+
+\workrow{2021}{Punto e a caso}%
+  {cortometraggio di Minafra e Piccinni}
+
+\end{multicols}
+
+%% ——— Footer pagina 2 ————————————————————————
+\vfill
+\cvrule
+\vspace{0.35em}
+{\footnotesize\color{coltextlight}%
+  \href{https://alessioroma.it}{alessioroma.it}%
+  \enspace·\enspace
+  \href{mailto:info@alessioroma.it}{info@alessioroma.it}%
+  \enspace·\enspace
+  Aggiornato: giugno 2026%
+}
+
+\end{document}
