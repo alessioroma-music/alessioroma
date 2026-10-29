@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.28)  30 JUN 2026 01:43
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.12.28)  28 OCT 2026 12:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -365,31 +365,31 @@ language=dflt;mapping=tex-text;"
 (fontspec)             <->"[assets/fonts/Champagne___Limousines_Bold_Italic.ttf
 ]/OT:language=dflt;mapping=tex-text;"
 
-Package hyperref Info: Option `colorlinks' set `true' on input line 46.
+Package hyperref Info: Option `colorlinks' set `true' on input line 57.
 
 (./curriculum-artistico.aux)
 \openout1 = `curriculum-artistico.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
 
 Package fontspec Info: 
 (fontspec)             Adjusting the maths setup (use [no-math] to avoid
@@ -397,64 +397,64 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 84.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 84.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 84.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 84.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 84.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 84.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 84.
-LaTeX Font Info:    Redeclaring math accent \check on input line 84.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 84.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 84.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 84.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 84.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 84.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 84.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 84.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 84.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 84.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 84.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 84.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 84.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 84.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 84.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 84.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 84.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 84.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 95.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 95.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 95.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 95.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 95.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 95.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 95.
+LaTeX Font Info:    Redeclaring math accent \check on input line 95.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 95.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 95.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 95.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 95.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 95.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 84.
+(Font)              `operators' in the math version `normal' on input line 95.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/Champagne___Limousines.ttf(0)/m/n on
- input line 84.
+ input line 95.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 84.
+(Font)              `operators' in the math version `bold' on input line 95.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/Champagne___Limousines.ttf(0)/m/n o
-n input line 84.
+n input line 95.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/Champagne___Limousines.ttf(0)/m/n --> TU/Champagne__
-_Limousines.ttf(0)/m/n on input line 84.
+_Limousines.ttf(0)/m/n on input line 95.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/Champagne___Limousines.ttf(0)/m/it 
-on input line 84.
+on input line 95.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/Champagne___Limousines.ttf(0)/b/n o
-n input line 84.
+n input line 95.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 84.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 95.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 84.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 95.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/Champagne___Limousines.ttf(0)/m/n --> TU/Champagne__
-_Limousines.ttf(0)/b/n on input line 84.
+_Limousines.ttf(0)/b/n on input line 95.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/Champagne___Limousines.ttf(0)/b/it
- on input line 84.
+ on input line 95.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 84.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 95.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 84.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 95.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -490,7 +490,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 84.
+Package hyperref Info: Link coloring ON on input line 95.
 (./curriculum-artistico.out) (./curriculum-artistico.out)
 \@outlinefile=\write3
 \openout3 = `curriculum-artistico.out'.
@@ -549,12 +549,12 @@ language=dflt;letterspace=130;mapping=tex-text;"
 ]/OT:language=dflt;letterspace=130;mapping=tex-text;"
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--102
+Underfull \hbox (badness 10000) in paragraph at lines 102--113
 []\TU/Champagne___Limousines.ttf(1)/m/n/34 ALESSIO
  []
 
 
-Overfull \hbox (8.52287pt too wide) in paragraph at lines 91--102
+Overfull \hbox (8.52287pt too wide) in paragraph at lines 102--113
 []\TU/Champagne___Limousines.ttf(2)/b/n/8 MUSICISTA · COMPOSITORE[] 
  []
 
@@ -587,59 +587,64 @@ language=dflt;letterspace=90;mapping=tex-text;"
 ]/OT:language=dflt;letterspace=90;mapping=tex-text;"
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--132
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
 
  []
 
 
-Overfull \hbox (9.51442pt too wide) in paragraph at lines 141--150
+Overfull \hbox (9.51442pt too wide) in paragraph at lines 152--161
 []\TU/Champagne___Limousines.ttf(0)/m/n/9 Alessandro Melchiorre·Ivan Fedele·Gio
 rgio Nottoli·Marco Stroppa·Robert HP Platz·Roberto Paci Dalò·Juha T.Koskinen·Mu
 sikschule
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--153
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--158
+Underfull \hbox (badness 10000) in paragraph at lines 165--169
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--162
+Underfull \hbox (badness 10000) in paragraph at lines 170--173
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--165
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--169
+Underfull \hbox (badness 10000) in paragraph at lines 177--180
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--172
+Underfull \hbox (badness 10000) in paragraph at lines 181--184
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--179
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
 
  []
 
@@ -676,42 +681,17 @@ language=dflt;letterspace=100;mapping=tex-text;"
 ]/OT:language=dflt;letterspace=100;mapping=tex-text;"
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--199
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 202--203
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--207
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 209--210
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 212--213
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 215--216
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 218--219
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 222--223
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
 
  []
 
@@ -737,6 +717,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 234--235
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 237--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--248
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--254
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
 
  []
 
@@ -768,47 +778,47 @@ language=dflt;letterspace=90;letterspace=0;mapping=tex-text;"
 ]/OT:language=dflt;letterspace=90;letterspace=0;mapping=tex-text;"
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--241
+Underfull \hbox (badness 10000) in paragraph at lines 259--260
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 243--244
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 246--247
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--250
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 252--253
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 254--255
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 257--258
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--261
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--264
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
 
  []
 
@@ -825,7 +835,7 @@ Package rerunfilecheck Info: File `curriculum-artistico.out' has not changed.
 Here is how much of TeX's memory you used:
  12080 strings out of 473832
  245808 string characters out of 5729480
- 696046 words of memory out of 5000000
+ 698046 words of memory out of 5000000
  34998 multiletter control sequences out of 15000+600000
  559541 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

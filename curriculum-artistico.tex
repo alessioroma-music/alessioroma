@@ -1,6 +1,8 @@
 %% ===================================================
 %% ALESSIO ROMA — Curriculum Artistico
 %% Compilare con: xelatex curriculum-artistico.tex
+%% Versione chiara (sfondo bianco):
+%%   xelatex -jobname=curriculum-artistico-chiaro "\def\lightmode{}\input{curriculum-artistico}"
 %% ===================================================
 \documentclass[a4paper, 10pt]{article}
 
@@ -23,11 +25,20 @@
 ]{Champagne___Limousines.ttf}
 
 %% ——— Colori dal sito ————————————————————————
-\definecolor{colbg}{HTML}{0D0F10}
-\definecolor{coltextmain}{HTML}{E8E0D0}
-\definecolor{coltextlight}{HTML}{7A8A90}
-\definecolor{colaccent}{HTML}{B8C8D4}
-\definecolor{colborder}{HTML}{2E3A42}
+\ifdefined\lightmode
+  %% Versione chiara: stessi toni freddi del sito, scuriti per la stampa
+  \definecolor{colbg}{HTML}{FFFFFF}
+  \definecolor{coltextmain}{HTML}{1B2124}
+  \definecolor{coltextlight}{HTML}{3F4C53}
+  \definecolor{colaccent}{HTML}{2A5670}
+  \definecolor{colborder}{HTML}{B9C4CA}
+\else
+  \definecolor{colbg}{HTML}{0D0F10}
+  \definecolor{coltextmain}{HTML}{E8E0D0}
+  \definecolor{coltextlight}{HTML}{7A8A90}
+  \definecolor{colaccent}{HTML}{B8C8D4}
+  \definecolor{colborder}{HTML}{2E3A42}
+\fi
 
 %% ——— Impostazioni pagina ————————————————————
 \geometry{a4paper, left=2.2cm, right=2.2cm, top=2cm, bottom=2cm}
@@ -163,6 +174,10 @@ Società Italiana di Musica Contemporanea (SIMC)}%
 %% ——— COMMISSIONI ————————————————————————————
 \cvsection{Commissioni}
 
+{\footnotesize\color{coltextlight}\spaced[90]{2026}}\enspace
+{\small\textit{Ostinate Migrazioni} per quartetto d'archi — Traetta Opera Festival}%
+\vspace{0.55em}\newline
+
 {\footnotesize\color{coltextlight}\spaced[90]{2025}}\enspace
 {\small\textit{Chiari Ombre} per violino e violoncello — Traetta Opera Festival}%
 \vspace{0.55em}\newline
@@ -196,6 +211,10 @@ piattaforme di streaming musicale.}
 \begin{multicols}{2}
 
 \cvsection{Musica strumentale}
+
+\workrow{2026}{Ostinate Migrazioni}%
+  {quartetto d'archi%
+  \newline\hspace*{2.2em}{\itshape commissione Traetta Opera Festival}}
 
 \workrow{2026}{Io sono come il mare}%
   {ensemble, elett. dal vivo, voce narrante — 45' ca.%
@@ -273,7 +292,7 @@ piattaforme di streaming musicale.}
   \enspace·\enspace
   \href{mailto:info@alessioroma.it}{info@alessioroma.it}%
   \enspace·\enspace
-  Aggiornato: giugno 2026%
+  Aggiornato: ottobre 2026%
 }
 
 \end{document}
